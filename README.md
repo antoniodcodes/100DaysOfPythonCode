@@ -8,3 +8,6 @@ Project: <a href="">Band Name Generator</a>
 #### Day 2 ####
 Day 2 consisted of learning about data types in Python, type conversion methods, mathematical operations and precedence, number manipulation and formatting strings using f-strings 
 Project: <a href="">Tip Calculator</a>
+
+#### Day 3 ####
+Day 3 consisted of learning about 
